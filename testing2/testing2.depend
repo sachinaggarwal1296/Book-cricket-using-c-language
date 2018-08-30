@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1453520954 source:f:\project\testing2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1453520954 source:f:\sachin\files\project\testing2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1453520954 source:f:\sachin\files\c programing\project\testing2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
